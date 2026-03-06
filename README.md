@@ -1,2 +1,2 @@
-# Dos-Terminal-Notepad
+# Terminal-Notepad-Win
 Work in progress
