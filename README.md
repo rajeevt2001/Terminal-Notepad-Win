@@ -5,15 +5,15 @@ Designed mainly for mouse-based usage, but keyboard navigation is completely sup
 
 Main Screen, running under Windows 11
 
-![Main Screen, running under DOSBox](Screenshots/Screenshot2026-03-04115757.png)
+![Main Screen, running under DOSBox](Screenshots/Screenshot2026-03-08231552.png)
 
 Preview with demo text
 
-![Preview with demo text](Screenshots/Screenshot2026-03-04151329.png)
+![Preview with demo text](Screenshots/Screenshot2026-03-08231722.png)
 
 Menus preview
 
-![Menus](Screenshots/Screenshot2026-03-04115805.png) ![Menus](Screenshots/Screenshot2026-03-04115808.png) ![Menus](Screenshots/Screenshot2026-03-04115811.png)
+![Menus](Screenshots/Screenshot2026-03-08232327.png)  .  ![Menus](Screenshots/Screenshot2026-03-08232422.png)  .   ![Menus](Screenshots/Screenshot2026-03-08232434.png)
 
 # Features of the application:
 
@@ -45,11 +45,9 @@ Modern UI/UX in the Terminal:
 
 # Settings page
 
-![Settings](Screenshots/Screenshot2026-03-04115825.png)
+Graphics Settings under Windows Vista x64
 
-![Settings](Screenshots/Screenshot2026-03-04115825.png)
-
-![Settings](Screenshots/Screenshot2026-03-04115825.png)
+![Settings](Screenshots/Screenshot2026-03-08232001.png)
 
 # Requirements
 Windows Vista x64 or above with either ConHost or Windows Terminal in Windows 10/11.
@@ -63,3 +61,8 @@ Windows 7 x64 (right click on the title bar of the console -> properties -> layo
 Windows 10 x64 (Works perfectly on both ConHost and Windows Terminal)
 
 Windows 11 x64 (Works perfectly on both ConHost and Windows Terminal)
+
+
+# Running under Windows Vista
+
+![Settings](Screenshots/Screenshot2026-03-08232128.png)
