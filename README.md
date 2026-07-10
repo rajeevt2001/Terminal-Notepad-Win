@@ -44,19 +44,26 @@ Modern UI/UX in the Terminal:
  - Cross-Compatible Theming: Reads and writes to the exact same config.txt file as the DOS version. Change your color scheme or scrollbar settings here, and the DOS version will instantly match it.
 
 # Settings page
+Display Settings
 
-Graphics Settings under Windows Vista x64
+![Settings](Screenshots/settings_display.png)
 
-![Settings](Screenshots/Screenshot2026-03-08232001.png)
+Graphics Settings
+
+![Settings](Screenshots/settings_graphics.png)
+
+Other Settings
+
+![Settings](Screenshots/settings_other.png)
 
 # Requirements
 Windows Vista x64 or above with either ConHost or Windows Terminal in Windows 10/11.
 
 # Tested on
 
-Windows Vista x64 (right click on the title bar of the console -> properties -> layout -> change screen buffer size and window size width to 81 -> go to font use Lucida Console -> click on ok for the program to work properly)
+Windows Vista x64 (right click on the title bar of the console -> properties -> go to font use Lucida Console -> click on ok for the program to work properly, resizing is not possible)
 
-Windows 7 x64 (right click on the title bar of the console -> properties -> layout -> change screen buffer size and window size width to 81 -> go to font use Lucida Console -> click on ok for the program to work properly)
+Windows 7 x64 (right click on the title bar of the console -> properties -> go to font use Lucida Console -> click on ok for the program to work properly, resizing is not possible)
 
 Windows 10 x64 (Works perfectly on both ConHost and Windows Terminal)
 
