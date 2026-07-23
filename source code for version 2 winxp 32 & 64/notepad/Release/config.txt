@@ -1,0 +1,13 @@
+word_warp=1
+v_scrollBar=1
+h_scrollBar=0
+respect_whole_words=1
+setting_hover_effects=2
+setting_color=1
+setting_ansi_mode=1
+setting_internal_clipboard=0
+setting_bg_color=0
+setting_fg_color=7
+setting_sel_color=1
+setting_crit_color=4
+setting_disk_stream=1
