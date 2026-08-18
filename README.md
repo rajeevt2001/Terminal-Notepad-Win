@@ -41,7 +41,7 @@ Modern UI/UX in the Terminal:
 
  - Comprehensive Keyboard Shortcuts: Fully embraces modern conventions with Ctrl+N (New), Ctrl+O (Open), Ctrl+S (Save), alongside Alt-key menu dropdowns and Tab traversal.
 
- - Cross-Compatible Theming: Reads and writes to the exact same config.txt file as the DOS version. Change your color scheme or scrollbar settings here, and the DOS version will instantly match it.
+ - Cross-Compatible Theming: Reads and writes to the same config.txt file as the DOS version. Change your color scheme or scrollbar settings here, and the DOS version will instantly match it.
 
 # Settings page
 Display Settings
@@ -60,15 +60,15 @@ Other Settings
 Windows Vista x64 or above with either ConHost or Windows Terminal in Windows 10/11.
 
 # Tested on
+Windows XP x86 and x64 (WinXP version; resizing is not possible) 
 
-Windows Vista x64 (right click on the title bar of the console -> properties -> go to font use Lucida Console -> click on ok for the program to work properly, resizing is not possible)
+Windows Vista x64 (right-click on the title bar of the console -> properties -> go to font, use Lucida Console -> click on ok for the program to work properly; resizing is not possible)
 
-Windows 7 x64 (right click on the title bar of the console -> properties -> go to font use Lucida Console -> click on ok for the program to work properly, resizing is not possible)
+Windows 7 x64 (right-click on the title bar of the console -> properties -> go to font, use Lucida Console -> click on ok for the program to work properly; resizing is not possible)
 
 Windows 10 x64 (Works perfectly on both ConHost and Windows Terminal)
 
 Windows 11 x64 (Works perfectly on both ConHost and Windows Terminal)
-
 
 # Running under Windows Vista
 
