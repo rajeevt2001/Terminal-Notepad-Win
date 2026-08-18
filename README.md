@@ -60,7 +60,7 @@ Other Settings
 Windows Vista x64 or above with either ConHost or Windows Terminal in Windows 10/11.
 
 # Tested on
-Windows XP x86 and x64 (WinXP version; resizing is not possible) 
+Windows XP x86 and x64 (WinXP version; right-click on the title bar of the console -> properties -> go to font, use Lucida Console -> click on ok for the program to work properly; resizing is not possible) 
 
 Windows Vista x64 (right-click on the title bar of the console -> properties -> go to font, use Lucida Console -> click on ok for the program to work properly; resizing is not possible)
 
